@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azezuiwa.github.io/SAO/sitemap_index.txt
+Sitemap: https://azezuiwa.github.io/kFI/sitemap_index.txt
+Sitemap: https://azezuiwa.github.io/kJj/sitemap_index.txt
+Sitemap: https://azezuiwa.github.io/yAH/sitemap_index.txt
